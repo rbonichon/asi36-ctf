@@ -1,16 +1,17 @@
-# About
+* About
 
-  These are Capture-The-Flags (CTF) binaries for ENSTA ASI 36.
+  These are Capture-The-Flags (CTF) binaries for the ENSTA ASI 36 module.
 
   These programs have been statically compiled for x86 32 bits, unstripped but
-  of course without debugging information. 
+  /of course/ without debugging information. 
 
   You should be able to execute them on your machine, provided it uses a Linux OS.
-  It might also work under Cygwin or Mac OS X but has not been tested on these platforms.
+  It might also work under Cygwin or Mac OS X but has not been tested on these
+  platforms.
 
   In any case, it is convenient but not necessary to be able to run the executables.
 
   The goal of the challenges is to find a secret code that will emit the "Success!" message.  
 
-  The secret uses only ASCII character codes that are available on a regular keyboard.
+  The secret uses only ASCII characters codes that are available on a regular keyboard.
 
